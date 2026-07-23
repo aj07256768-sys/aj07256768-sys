@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Abdinasir Osman 👋
+
+🚀 Currently learning: Python, Flask, JavaScript
+💻 Working on: REST APIs and web projects
+📫 Reach me: (add your email or LinkedIn)
 
 <!--
 **aj07256768-sys/aj07256768-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
